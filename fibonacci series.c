@@ -7,9 +7,9 @@ int main()
 	scanf("%d",&n);
 	a=0;
 	b=1;
-	i=3;
-	printf("%d %d ,a,b");
-	while(i<=n)
+	i=1;
+	printf("%d %d",a,b);
+	while(i<=n-2)
 	{
 		c=a+b;
 		printf(" %d",c);

@@ -13,6 +13,7 @@ int main()
 	
 	 average=(marks1+marks2+marks3)/3;
 	 
+	 
 	 if(average>90 && marks1>60 && marks2>60 && marks3>60) 
 	 {
 	 	printf("Excellent Student\n");

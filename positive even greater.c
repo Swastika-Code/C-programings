@@ -2,16 +2,16 @@
 int main()
 {
 	int num;
-	printf("enter an integer:\n");
+	printf("enter an integer:");
 	scanf("%d",&num);
 	
 	if(num%2==0)
-	printf("%d is even.",num);
+	printf("%d is even.\n",num);
 	
 	if(num>0)
-	printf("%d is positive.",num);
+	printf("%d is positive.\n",num);
 	
 	if(num>100)
-	printf("%d is greater than 100.",num);
+	printf("%d is greater than 100.\n",num);
 	
 }

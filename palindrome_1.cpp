@@ -22,8 +22,7 @@ main()
     	printf("print the given number is palindrome ");
 	else
     	printf("print the given number is not palindrome");
-	printf("n\n\n\npress any key to exit");
-	getch();
+
 	return(0);
 	
 }
